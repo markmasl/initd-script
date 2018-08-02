@@ -1,2 +1,2 @@
 # initd-script
-Fore testing purposes
+For testing purposes
